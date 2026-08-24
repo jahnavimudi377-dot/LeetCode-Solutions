@@ -6,10 +6,12 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |

@@ -20,6 +20,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
 ## Simulation
 |  |
 | ------- |
@@ -28,4 +29,8 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | [0137-single-number-ii](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1550-three-consecutive-odds](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [2942-find-words-containing-character](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
+| [2942-find-words-containing-character](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Trie
 |  |

@@ -36,6 +36,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
+| [3019-number-of-changing-keys](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Trie
 |  |
 | ------- |

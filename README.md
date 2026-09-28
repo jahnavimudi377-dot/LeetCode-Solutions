@@ -37,6 +37,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2942-find-words-containing-character](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Trie
@@ -47,4 +48,12 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

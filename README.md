@@ -37,6 +37,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -53,9 +54,11 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

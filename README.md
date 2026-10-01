@@ -36,6 +36,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -61,4 +62,12 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | ------- |
 | [0020-valid-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | [0027-remove-element](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0137-single-number-ii](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1550-three-consecutive-odds](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [2942-find-words-containing-character](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -70,4 +71,32 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

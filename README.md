@@ -21,6 +21,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | [0027-remove-element](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | [0014-longest-common-prefix](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2942-find-words-containing-character](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -111,4 +113,8 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

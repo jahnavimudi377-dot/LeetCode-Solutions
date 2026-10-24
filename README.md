@@ -22,6 +22,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | [0125-valid-palindrome](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -47,6 +49,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2942-find-words-containing-character](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |

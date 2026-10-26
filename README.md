@@ -107,6 +107,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Depth-First Search
 |  |

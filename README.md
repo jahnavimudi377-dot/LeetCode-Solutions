@@ -28,6 +28,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 | ------- |
 | [0258-add-digits](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0504-base-7) |
+| [3945-digit-frequency-score](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3945-digit-frequency-score](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |

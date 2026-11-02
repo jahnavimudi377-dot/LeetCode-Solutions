@@ -61,6 +61,7 @@ My solutions to LeetCode problems, organized by problem and topic, primarily usi
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0476-number-complement](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/jahnavimudi377-dot/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Stack
 |  |
